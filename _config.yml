@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jiabo Yang"
+title                    : "Jiabo Yang's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Jiabo Yang"
 description              : &description "personal description"
@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "aaa.png"
-  name             : "Jiabo Yang (杨佳博)"
+  name             : "Jiabo Yang"
   pronouns         : # example: "she/her"  
-  # bio              : "Short biography for the left-hand sidebar"
-  # location         : "Earth"
+  bio              : "Master student, Tsinghua University"
+  location         : "Beijing, China"
   employer         : "Tsinghua University"
   uri              : # URL
   email            : "yangjb24@mails.tsinghua.edu.cn"
