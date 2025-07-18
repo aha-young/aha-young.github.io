@@ -16,4 +16,20 @@ Education
 
 Publication
 ======
-...
+- ### Small-scale LEO Satellite Networking for Global-scale Demands
+
+  Yuanjie Li, Yimei Chen, **Jiabo Yang**, Jinyao Zhang, Bowen Sun, Lixin Liu, Hewu Li, Jianping Wu, Zeqi Lai, Qian Wu, Jun Liu
+  
+  To appear at ACM Special Interest Group on Data Communication **(SIGCOMM'25)**
+
+- ### Direct-to-Cell Satellite Network without Satellite Navigation
+
+  Wei Liu, Yuanjie Li, Jingyi Lan, Hewu Li, Yimei Chen, Lixin Liu, **Jiabo Yang**, Xi Long, Li Ouyang, Minghao Tang, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai
+  
+  To appear at ACM Special Interest Group on Data Communication **(SIGCOMM'25)**
+
+- ### [Democratizing Direct-to-Cell Low Earth Orbit Satellite Networks](https://www.usenix.org/system/files/nsdi24-liu-lixin.pdf)
+
+  Lixin Liu, Yuanjie Li, Hewu Li, **Jiabo Yang**, Wei Liu, Jingyi Lan, Yufeng Wang, Jiarui Li, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai
+  
+  The 21st USENIX Symposium on Networked Systems Design and Implementation **(NSDI'24)**
